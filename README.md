@@ -4,6 +4,24 @@
 
 # Основная часть
 
+| Клеточная линия | Клеточная метка | Ссылка                                                                                                                            | Имя при обработке |
+| --------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| A549            | H4k20me1        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H4k20me1Etoh02AlnRep1.bam   | A549H4k20me1      |
+| A549            | H3k09me3        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam   | A549H3k09me3      |
+| A549            | H3k09ac         | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam    | A549H3k09ac       |
+| A549            | H3k79me2        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam | A549H3k79me2      |
+| A549            | H3k04me3        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me3Dex100nmAlnRep1.bam | A549H3k04me3      |
+| A549            | H3k04me2        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me2Dex100nmAlnRep1.bam | A549H3k04me2      |
+| A549            | H3k04me1        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me1Dex100nmAlnRep1.bam | A549H3k04me1      |
+| A549            | H3k36me3        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam | A549H3k36me3      |
+| A549            | H3k27me3        | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep1.bam  | A549H3k27me3      |
+| A549            | H3k27ac         | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k27acDex100nmAlnRep1.bam  | A549H3k27ac       |
+| A549            | H2az            | http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H2azDex100nmAlnRep1.bam     | A549H2az          |
+
+
+
+# H4k20me1
+
 
 
 # Бонус
